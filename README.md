@@ -1,6 +1,6 @@
 # Core Framework
 Core Framework Series x, s, l and e.  
-Start developing on Bastion Framework on your favourite platforms today with ease.  
+Start developing on Core Framework on your favourite platforms today with ease.  
 [Get the SDK](https://github.com/plaincube/core-framework/releases)!  
 
 # Framework x
